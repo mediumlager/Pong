@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Bar.qml</file>
+        <file>Squareball.qml</file>
+        <file>Centerbar.qml</file>
+    </qresource>
+</RCC>
